@@ -1,6 +1,6 @@
-token=NTg0NTM1MTgyMjg0MTYxMDM0.XPMU2g.U23y8L9GQpBM5ko_tNhM_K3skVI
+token=NTkyMzg3MTIzODk4ODc1OTA2.XQ-lhw.bGObJtbrOngtD0pElhA1EkkZ2SY
 owner=567694723679125514  
-prefix=1
-game=Dgymnasium.
+prefix=3
+game=3Play
 stayinchannel=true
 songinstatus=true
